@@ -2,3 +2,15 @@ Got it working (was simpler than I thought), then resolved using a cool function
 
 There's no regex magic, just some currying and careful placement of arguments to always put data last.
 
+### Instructions
+
+Install `nodemon` and `ramda`:
+
+```
+npm i
+```
+
+Run program:
+
+`npm start`
+
